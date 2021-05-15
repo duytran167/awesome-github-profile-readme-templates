@@ -39,9 +39,8 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
@@ -53,6 +52,6 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jas-Script&count_private=true&theme=radical" alt="Jas-Script" />
 
 ----
-Credit: [Jas-Script](https://github.com/Jas-Script)
+Credit: [DuyTran](https://github.com/duytran167)
 
 Last Edited on: 04/01/2021
